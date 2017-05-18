@@ -1,0 +1,29 @@
+/* Add here all your CSS customizations */
+.comic-sans {
+    /*font-family:"Comic Sans MS",Arial,sans-serif !important;*/
+}
+
+.ios-profile-widget .badge {
+    background-color: #0a6ebd;
+    padding: 5px 7px;
+}
+
+.site-blue {
+    color: #0a6ebd !important;
+}
+
+.list-group .list-group-item span.badge {
+    background-color: #0a6ebd;
+}
+
+/* site-green : #4caf50  site-blue: #232c3b  */
+.site-green {
+    color: #0a6ebd !important;
+}
+.site-green-background {
+    background-color: #0a6ebd !important;
+}
+
+.site-green-title {
+    color: #0a6ebd;
+}
